@@ -1,0 +1,6 @@
+{
+  "name": "Minha Agenda",
+  "description": "Um aplicativo de agenda completo para criar tarefas, selecionar datas e receber lembretes automáticos e notificações push.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
